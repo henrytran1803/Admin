@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "146384867456",
+    "project_id": "admin-c9e1f",
+    "storage_bucket": "admin-c9e1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146384867456:android:97d69f51090ab95589d665",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4bCgQ9_nxaJ_vKEiUIAlnbXSlO0CeE5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146384867456:android:592e69ee7527055289d665",
+        "android_client_info": {
+          "package_name": "com.henry.Admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4bCgQ9_nxaJ_vKEiUIAlnbXSlO0CeE5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
